@@ -1,5 +1,12 @@
 ## Everything you would expect
 
+| Method      | Description                          |
+| ----------- | ------------------------------------ |
+| `GET`       | :material-check:     Fetch resource  |
+| `PUT`       | :material-check-all: Update resource |
+| `DELETE`    | :material-close:     Delete resource |
+
+
 ### It's just Markdown
 
 Focus on the content of your documentation and create a professional static site
