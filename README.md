@@ -1,5 +1,8 @@
 ## Everything you would expect
 
+:smile:
+
+
 | Method      | Description                          |
 | ----------- | ------------------------------------ |
 | `GET`       | :material-check:     Fetch resource  |
